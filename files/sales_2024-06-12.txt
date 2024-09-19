@@ -1,0 +1,4 @@
+1;Client=model.Client@3ffc5af1;Date=12-06-2024 11:51:42;
+1;Products=
+1;Amount=49.92 €
+
